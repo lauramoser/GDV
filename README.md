@@ -1,4 +1,5 @@
 # Grafische Datenverarbeitung 
+WiSe 21/22
 
 ## Lerninhalte 
 - Einführung und Motivation
